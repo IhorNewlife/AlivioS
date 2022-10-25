@@ -235,7 +235,7 @@ nav {
 .hero {
   padding: 187px 0 187px 0;
   height: 100%;
-  background-image: url(./img/HeroBG.jpg);
+  background-image: url(/img/HeroBG.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
   background-size: cover;
